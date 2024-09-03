@@ -40,14 +40,10 @@ A dark evil has emerged in your hometown after a group of government scientists 
 
 ## Installation and Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://gitlab.com/<username>/project-2.git
-   ```
-2. **Open the project in IntelliJ IDEA:**
+1. **Open the project in IntelliJ IDEA:**
    - Ensure the `pom.xml` file is loaded to manage dependencies.
 
-3. **Build and Run:**
+2. **Build and Run:**
    - Use IntelliJ to build the project and run the `ShadowDimension` class to start the game.
 
 ## Usage
