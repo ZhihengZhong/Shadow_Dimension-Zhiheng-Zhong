@@ -1,7 +1,5 @@
 # ShadowDimension
 
-**University of Melbourne - SWEN20003 Object Oriented Software Development**
-
 ## Project Overview
 
 ShadowDimension is a fantasy role-playing game developed in Java as part of the Object Oriented Software Development course (SWEN20003) at the University of Melbourne. The game is a continuation of Project 1, where students are tasked with implementing a two-level game using the Basic Academic Game Engine Library (Bagel).
@@ -12,12 +10,12 @@ A dark evil has emerged in your hometown after a group of government scientists 
 
 ## Game Levels
 
-- **Level 0: The Lab**
+- **Level 1: The Lab**
   - Navigate through the lab avoiding sinkholes.
   - Reach the gate located in the bottom right corner to proceed to the next level.
   - Falling into a sinkhole will reduce the player's health.
   
-- **Level 1: The Over Under**
+- **Level 2: The Over Under**
   - Defeat Navec and his demons while avoiding sinkholes and trees.
   - The player can attack enemies, and both the player and enemies have health points.
   - Adjust the game difficulty by changing the timescale, which affects the speed of enemies.
@@ -57,14 +55,6 @@ A dark evil has emerged in your hometown after a group of government scientists 
 - **Game Objectives:**
   - Avoid hazards, defeat enemies, and reach the gate to complete each level.
 
-## Project Submission
-
-- **Project 2A:** Submit a UML diagram as a PDF on Canvas showing your planned class design.
-- **Project 2B:** Submit the complete implementation via GitLab with a minimum of 5 meaningful commits.
-
-## Customization
-
-Students are encouraged to add custom features or modifications to enhance the game. Customization does not affect grading but could be considered for a competition.
 
 ## Documentation
 
